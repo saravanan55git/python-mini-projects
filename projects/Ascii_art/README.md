@@ -8,7 +8,7 @@ This project uses [opencv](https://www.opencv.org) to process image and [numpy](
 
 ## Usage
 Use the Script [make_art.py](https://github.com/Shiny-Akash/python-mini-projects/blob/ascii-art/projects/asciiart/make_art.py) .
-In the command line, Enter
+In the command line, Enter 
 
 `python3 make_art.py [image_path]`
 
